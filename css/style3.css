@@ -117,9 +117,12 @@ a:hover{
     }
 
     /* Adjust card position */
-    .active .card{
-        left: 0;
-    }
+.active .card {
+    left: 0;  /* You can keep this if needed for positioning */
+    width: 100%;  /* Set a width for the card */
+    position: relative;  /* Ensure it can be positioned */
+    margin: 0 auto;  /* This centers the card */
+}
 
     .active .container{
         transform: translateX(0);
