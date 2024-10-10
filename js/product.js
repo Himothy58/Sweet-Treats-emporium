@@ -126,5 +126,5 @@ const searchProducts = (event) => {
 const checkout = () => {
     // Implement checkout logic here
     alert("Checkout functionality is not implemented yet. You can order via WhatsApp we have a WHATSAPP BUSSINESS NUMBER 0724 740 740")
-     alert("DO NOT FORGET TO SIGN IN TO TRACK UR ODER");
+     alert("DO NOT FORGET TO SIGN IN OR SIGN UP TO TRACK YOUR ORDER");
 };
